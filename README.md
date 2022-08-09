@@ -1,6 +1,6 @@
 # FederatedLearning
 
-Simulation of Federate learning using Tensorflow Federated to predict human activity 
+Simulation of Federated learning using Tensorflow Federated to predict human activity 
 
 Note 
 tff doesnt work well with ptyhong verisons on macOs Monterey best to run on colab 
